@@ -40,3 +40,4 @@ if choice in ('1', '2', '3', '4'):
         print(f"نتیجه: {divide(num1, num2)}")
 else:
     print("انتخاب نامعتبر است.")
+c++
