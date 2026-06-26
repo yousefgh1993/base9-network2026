@@ -41,3 +41,6 @@ if choice in ('1', '2', '3', '4'):
 else:
     print("انتخاب نامعتبر است.")
 c++
+if choice in ('1', '2', '3', '4'):
+    num1 = float(input("عدد اول: "))
+    num2 = float(input("عدد دوم: ")) altcoin
