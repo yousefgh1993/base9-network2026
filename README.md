@@ -46,3 +46,4 @@ if choice in ('1', '2', '3', '4'):
     num2 = float(input("عدد دوم: ")) altcoin
 if yes = 1   if 2 = no
 just base
+the end
